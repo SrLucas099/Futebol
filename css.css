@@ -1,0 +1,44 @@
+h1    {
+         color: black;
+         background-color: #2231FA;
+         } 
+
+h2    {
+         color: black;
+         background-color: #18D651;
+         }
+
+h3    {
+         color: black;
+         background-color: #FAC70A;
+         }
+
+header { 
+         font-family: 'Playfair Display', serif;
+         }
+header { font-size: 40px;
+         }
+h1     { font-family: 'Lobster', cursive;
+         }
+h1     { font-size: 40px
+         }
+
+img    {
+        width: 50%;
+        height: 50%;
+        border-top: 10px solid #65BD26;
+        border-bottom: 10px solid #65BD26;
+        border-left: 10px solid #2231FA;
+        border-right: 10px solid #FAC70A;
+       }
+#imagem1 {
+        width: 25%;
+        height: 25%;
+        border-top: 10px solid #F1F1EF;
+        border-bottom: 10px solid #F1F1EF;
+        border-left: 10px solid #F1F1EF;
+        border-right: 10px solid #F1F1EF;
+        }
+
+
+

@@ -1,0 +1,29 @@
+#imagem1 { 
+        width: 50%;
+        height: 50%;
+        border-top: 10px solid #FA0101;
+        border-bottom: 10px solid #FA0101;
+        border-left: 10px solid #FAE2B3;
+        border-right: 10px solid #FAE2B3;
+         }
+
+p      {
+        font-family: 'Viaoda Libre', cursive;
+       }
+p      {
+        font-size: 15px;
+       }
+header { 
+         font-family: 'Playfair Display', serif;
+         }
+header { font-size: 40px;
+         }
+header {
+        color: white;
+        background-color: black;
+       }
+        
+footer {
+        color: white;
+        background-color: black;
+       }
